@@ -1,0 +1,2 @@
+# mynpmrepo
+Test npm package
